@@ -1,0 +1,26 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    margin: 30px;
+    padding: 10px;
+    color: lightskyblue;
+    font-size: 20px;
+    background-color: rgb(57, 48, 143);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:1px dotted tomato ;
+}
+
+.special{
+    color: red;
+}
+a{
+    color:lightblue;
+    text-decoration: none;
+}
+a:visited{
+    color: darkcyan;
+}
+h1{
+    background-color: lightskyblue;
+}
